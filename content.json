@@ -1,0 +1,27 @@
+{
+  "menuLinks": [
+    { "label": "Home", "url": "index.php" },
+    { "label": "Contact", "url": "#contact" },
+    { "label": "Admin", "url": "login.php" }
+  ],
+  "profilePic": "uploads/default-profile.png",
+  "heroTitle": "Design. Develop. Delight.",
+  "heroSubtitle": "I create impactful digital experiences, bridging creativity and technology.",
+  "aboutTitle": "About Me",
+  "aboutText": "Hello! I’m [Your Name], a [Your Role] specializing in user-centric solutions. With X years of experience, I love turning ideas into aesthetic, high-performance products.",
+  "skills": [
+    { "name": "UI/UX Design", "description": "Crafting intuitive interfaces and user flows." },
+    { "name": "HTML/CSS/JS", "description": "Responsive, modern front-end experiences." }
+  ],
+  "projects": [
+    {
+      "title": "Project One",
+      "image": "https://via.placeholder.com/600x400?text=Project+1",
+      "description": "A short description of project one.",
+      "link": "#"
+    }
+  ],
+  "contactEmail": "your.email@example.com",
+  "contactLinkedIn": "https://www.linkedin.com/in/your-profile",
+  "contactGitHub": "https://github.com/your-username"
+}
